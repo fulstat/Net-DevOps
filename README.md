@@ -1,4 +1,6 @@
 # Net-DevOps
+![](/images/cisco-campus.jpg)
+
 Cisco Network DevOps: ACI, Ansible, Python, SDN, Kubernetes, Docker, Containers, NETCONF
 
 We discussed the following:
