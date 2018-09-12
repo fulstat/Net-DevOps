@@ -26,6 +26,7 @@ We discussed the following:
 + What is Kubernetes?
 
 # Resource:
+CCIE or Python: [Click here](https://youtu.be/SPhiIyStNMA)
 
 Cisco DevNet Home Page: [Click here](https://developer.cisco.com/?utm_campaign=oudemy-davidbombal&utm_source=oudemy&utm_medium=davidbombal-course01)
 
