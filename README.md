@@ -7,7 +7,9 @@ We discussed the following:
 
 + Hank Preston Introduction
 
-+ Should I study CCNA or Python? CCNP or Python? CCIE or Python?
++ Should I study CCNA or Python? CCNP or Python? CCIE or Python? or all that
+
++ CCIE or automation
 
 + Hybrid Engineer, Next-Gen-Network Engineer, NetDevOps
 
