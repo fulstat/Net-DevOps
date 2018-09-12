@@ -23,5 +23,19 @@ We discussed the following:
 
 + What is Kubernetes?
 
+# Resource:
+
+Cisco DevNet Home Page: [Click here](https://developer.cisco.com/?utm_campaign=oudemy-davidbombal&utm_source=oudemy&utm_medium=davidbombal-course01)
+
+Developer Home Page: [Click here](https://developer.cisco.com/)
+
+Networking Developer Center: [Click here](https://developer.cisco.com/site/networking/)
 
 
+DevNet Learning Labs: [Click here](https://learninglabs.cisco.com/)
+
+Cisco DevNet Network Programability Basics Video Course: [Click here](https://developer.cisco.com/video/net-prog-basics?utm_campaign=oudemy-davidbombal&utm_source=oudemy&utm_medium=davidbombal-course01)
+
+Cisco DevNet Coding Fundamentals Learning Module: [Click here](https://learninglabs.cisco.com/modules/fundamentals?utm_campaign=oudemy-davidbombal&utm_source=oudemy&utm_medium=davidbombal-course01)
+
+Cisco DevNet Learning Tracks: [Click here 1](https://learninglabs.cisco.com/tracks/devnet-beginner?utm_campaign=oudemy-davidbombal&utm_source=oudemy&utm_medium=davidbombal-course01), [Click here 2](https://learninglabs.cisco.com/tracks/netprog-eng?utm_campaign=oudemy-davidbombal&utm_source=oudemy&utm_medium=davidbombal-course01)
